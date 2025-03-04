@@ -1,2 +1,2 @@
-# youtube-DE-analysis
-A Data Engineering project showcasing an end-to-end pipeline that ingests YouTube trending data from Kaggle into AWS (S3, Glue, Lambda, Athena, QuickSight) for analytics and reporting.
+# Youtube-DE-Analysis
+🚀 A Data Engineering Project that creates a robust, end-to-end pipeline to seamlessly ingest & process YouTube trending data 📊 from Kaggle into AWS (S3, Glue, Lambda, Athena, QuickSight) for dynamic analytics and insightful reporting.
