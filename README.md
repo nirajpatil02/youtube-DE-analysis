@@ -1,7 +1,7 @@
 # 🚀 YouTube Data Engineering Project (AWS)
 
 **A Data Engineering project that builds a robust, end-to-end pipeline to ingest and process YouTube trending data from Kaggle into AWS for dynamic analytics and insightful reporting.**  
-*Inspired by Darshil Parmar’s YouTube Data Engineering Project – I followed his approach closely as my first data engineering project.*
+*[**Inspired by Darshil Parmar’s YouTube Data Engineering Project**](https://youtu.be/yZKJFKu49Dk?si=NKSCNOtS_QJ9MlI-) – I followed his approach closely as my first data engineering project.*
 
 ---
 
