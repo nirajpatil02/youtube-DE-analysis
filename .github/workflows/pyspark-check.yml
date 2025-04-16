@@ -2,17 +2,36 @@ name: PySpark Validation
 on: [push, pull_request]
 
 jobs:
-  pyspark-check:
+  pyspark-test:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
-        python-version: '3.8'
+        python-version: '3.9'
+    
     - name: Install dependencies
       run: |
-        pip install pyspark pylint
-    - name: Find and validate PySpark files
+        pip install pyspark pytest
+        sudo apt-get install -y openjdk-11-jdk
+        
+    - name: Run PySpark validation
       run: |
-        find . -name "*.py" | xargs pylint --disable=all --enable=syntax
+        # Basic syntax check
+        find . -name "*.py" | xargs python -m py_compile
+        
+        # If you have test files
+        if [ -f "requirements.txt" ]; then
+          pip install -r requirements.txt
+        fi
+        
+        # Run basic Spark session test
+        python -c "
+        from pyspark.sql import SparkSession
+        spark = SparkSession.builder.master('local[1]').getOrCreate()
+        spark.createDataFrame([(1,)], ['id']).show()
+        spark.stop()
+        print('PySpark basic validation successful')
+        "
