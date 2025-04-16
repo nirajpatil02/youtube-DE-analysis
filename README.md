@@ -3,45 +3,17 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### ☁️ AWS Services
+[![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/) 
+[![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=awsglue&logoColor=white)](https://aws.amazon.com/glue/) 
+[![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)  
+[![Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/athena/) 
+[![QuickSight](https://img.shields.io/badge/Amazon_QuickSight-2591F7?style=for-the-badge)](https://aws.amazon.com/quicksight/)  
+[![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cli/)
 
-<p align="center">
-  <a href="https://aws.amazon.com/s3/">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Simple-Storage-Service.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="S3">
-    <p><small><b>Amazon S3</b></small></p>
-  </a>
-  <a href="https://aws.amazon.com/glue/" style="margin-left: 20px;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Glue.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="Glue">
-    <p><small><b>AWS Glue</b></small></p>
-  </a>
-  <a href="https://aws.amazon.com/lambda/" style="margin-left: 20px;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Lambda.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="Lambda">
-    <p><small><b>AWS Lambda</b></small></p>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://aws.amazon.com/athena/">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Athena.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="Athena">
-    <p><small><b>Amazon Athena</b></small></p>
-  </a>
-  <a href="https://aws.amazon.com/quicksight/" style="margin-left: 20px;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-QuickSight.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="QuickSight">
-    <p><small><b>QuickSight</b></small></p>
-  </a>
-</p>
-
-### ⚙️ Tools & Data Processing
-
-<p align="center">
-  <a href="https://aws.amazon.com/cli/">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-CLI.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="AWS CLI">
-    <p><small><b>AWS CLI</b></small></p>
-  </a>
-  <a href="https://spark.apache.org/" style="margin-left: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" alt="PySpark">
-    <p><small><b>PySpark</b></small></p>
-  </a>
-</p>
+### 📊 Data Processing
+<a href="https://spark.apache.org/">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="100" alt="PySpark">
+</a>
 
 # 🚀 YouTube Data Engineering Project (AWS)
 
