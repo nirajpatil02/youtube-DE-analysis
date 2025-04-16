@@ -2,20 +2,55 @@
 ![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/youtube-DE-analysis)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 🛠️ Technologies & Services  
+<!-- AWS Data Services -->
+<h3 align="center">☁️ AWS Data Services</h3>
+<p align="center">
+  <!-- S3 -->
+  <a href="https://aws.amazon.com/s3/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Simple-Storage-Service.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="S3">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>Amazon S3</b></p>
+  </a>
+  
+  <!-- Glue -->
+  <a href="https://aws.amazon.com/glue/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Glue.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="Glue">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>AWS Glue</b></p>
+  </a>
+  
+  <!-- Lambda -->
+  <a href="https://aws.amazon.com/lambda/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Lambda.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="Lambda">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>AWS Lambda</b></p>
+  </a>
+  
+  <!-- Athena -->
+  <a href="https://aws.amazon.com/athena/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Athena.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="Athena">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>Amazon Athena</b></p>
+  </a>
+  
+  <!-- QuickSight -->
+  <a href="https://aws.amazon.com/quicksight/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-QuickSight.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="QuickSight">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>QuickSight</b></p>
+  </a>
+</p>
 
-### **AWS Services**  
-[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)  
-[![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/glue/)  
-[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)  
-[![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/athena/)  
-[![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-2591F7?style=for-the-badge)](https://aws.amazon.com/quicksight/)  
-
-### **Development & Automation**  
-[![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cli/)  
-
-### **Data Processing**  
-[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
+<!-- Tools & Processing -->
+<h3 align="center">⚙️ Tools & Data Processing</h3>
+<p align="center">
+  <!-- AWS CLI -->
+  <a href="https://aws.amazon.com/cli/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-CLI.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="AWS CLI">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>AWS CLI</b></p>
+  </a>
+  
+  <!-- PySpark -->
+  <a href="https://spark.apache.org/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="90" alt="PySpark">
+    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>PySpark</b></p>
+  </a>
+</p>
 
 # 🚀 YouTube Data Engineering Project (AWS)
 
