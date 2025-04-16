@@ -1,3 +1,22 @@
+![PySpark Check](https://github.com/nirajpatil02/youtube-DE-analysis/actions/workflows/pyspark-check.yml/badge.svg)
+![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/youtube-DE-analysis)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 🛠️ Technologies & Services  
+
+### **AWS Services**  
+[![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)  
+[![AWS Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/glue/)  
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)](https://aws.amazon.com/lambda/)  
+[![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/athena/)  
+[![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-2591F7?style=for-the-badge)](https://aws.amazon.com/quicksight/)  
+
+### **Development & Automation**  
+[![AWS CLI](https://img.shields.io/badge/AWS_CLI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cli/)  
+
+### **Data Processing**  
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/)  
+
 # 🚀 YouTube Data Engineering Project (AWS)
 
 **A Data Engineering project that builds a robust, end-to-end pipeline to ingest and process YouTube trending data from Kaggle into AWS for dynamic analytics and insightful reporting.**  
