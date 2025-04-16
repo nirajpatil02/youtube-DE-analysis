@@ -2,53 +2,44 @@
 ![Last Commit](https://img.shields.io/github/last-commit/nirajpatil02/youtube-DE-analysis)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<!-- AWS Data Services -->
-<h3 align="center">☁️ AWS Data Services</h3>
+### ☁️ AWS Services
+
 <p align="center">
-  <!-- S3 -->
-  <a href="https://aws.amazon.com/s3/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Simple-Storage-Service.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="S3">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>Amazon S3</b></p>
+  <a href="https://aws.amazon.com/s3/">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Simple-Storage-Service.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="S3">
+    <p><small><b>Amazon S3</b></small></p>
   </a>
-  
-  <!-- Glue -->
-  <a href="https://aws.amazon.com/glue/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Glue.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="Glue">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>AWS Glue</b></p>
+  <a href="https://aws.amazon.com/glue/" style="margin-left: 20px;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Glue.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="Glue">
+    <p><small><b>AWS Glue</b></small></p>
   </a>
-  
-  <!-- Lambda -->
-  <a href="https://aws.amazon.com/lambda/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Lambda.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="Lambda">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>AWS Lambda</b></p>
-  </a>
-  
-  <!-- Athena -->
-  <a href="https://aws.amazon.com/athena/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Athena.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="Athena">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>Amazon Athena</b></p>
-  </a>
-  
-  <!-- QuickSight -->
-  <a href="https://aws.amazon.com/quicksight/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-QuickSight.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="QuickSight">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>QuickSight</b></p>
+  <a href="https://aws.amazon.com/lambda/" style="margin-left: 20px;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-Lambda.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="Lambda">
+    <p><small><b>AWS Lambda</b></small></p>
   </a>
 </p>
 
-<!-- Tools & Processing -->
-<h3 align="center">⚙️ Tools & Data Processing</h3>
 <p align="center">
-  <!-- AWS CLI -->
-  <a href="https://aws.amazon.com/cli/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-CLI.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="90" alt="AWS CLI">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>AWS CLI</b></p>
+  <a href="https://aws.amazon.com/athena/">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-Athena.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="Athena">
+    <p><small><b>Amazon Athena</b></small></p>
   </a>
-  
-  <!-- PySpark -->
-  <a href="https://spark.apache.org/" style="margin: 0 15px; display: inline-block; text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="90" alt="PySpark">
-    <p style="margin-top: 8px; font-size: 14px; color: #333;"><b>PySpark</b></p>
+  <a href="https://aws.amazon.com/quicksight/" style="margin-left: 20px;">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_Amazon-QuickSight.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="QuickSight">
+    <p><small><b>QuickSight</b></small></p>
+  </a>
+</p>
+
+### ⚙️ Tools & Data Processing
+
+<p align="center">
+  <a href="https://aws.amazon.com/cli/">
+    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/Architecture-Service-Icons/Arch_AWS-CLI.48cacf68f75d1ff857e7b2d8a9c96b6dd1e0b389.png" width="80" alt="AWS CLI">
+    <p><small><b>AWS CLI</b></small></p>
+  </a>
+  <a href="https://spark.apache.org/" style="margin-left: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" alt="PySpark">
+    <p><small><b>PySpark</b></small></p>
   </a>
 </p>
 
